@@ -23,6 +23,6 @@ All URLs are deployed on localhost port 5000. Can be changed in the app.py files
 
     file: app.py
     
-    url: localhost:5000/hello/<user>
+    url: localhost:5000/hello/user
     
     function: userf(user)
