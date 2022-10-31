@@ -5,7 +5,7 @@ All URLs are deployed on localhost port 5000. Can be changed in the app.py files
 
 1. Creating an API for Hostname (Root URL)
 
-    file: app.py
+    file: flaskapp_basic.py
 
     hostname: localhost:5000
 
@@ -13,7 +13,7 @@ All URLs are deployed on localhost port 5000. Can be changed in the app.py files
 
 2. Creating an app for URL path
 
-    file: app.py
+    file: flaskapp_basic.py
   
     url: localhost:5000/hello
   
@@ -21,7 +21,7 @@ All URLs are deployed on localhost port 5000. Can be changed in the app.py files
 
 3. Creating an app for dynamic URL
 
-    file: app.py
+    file: flaskapp_basic.py
     
     url: localhost:5000/hello/user
     
